@@ -1,2 +1,2 @@
 # testmult
-and 2
+and private.txt in private
